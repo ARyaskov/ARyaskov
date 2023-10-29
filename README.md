@@ -45,7 +45,9 @@ I like
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
+![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
 <!--
 **ARyaskov/ARyaskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
