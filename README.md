@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Andrei (Eddie).
+
+I'm a
+ - Tech Adviser
+ - Blockchain Enthusiast
+ - Co-founder of Maroo.us (Former HoE of) (![Y Combinator Badge](https://img.shields.io/badge/Y%20Combinator-F0652F?logo=ycombinator&logoColor=fff&style=flat) / YC21S)
+
+
 I'm proficient in
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
