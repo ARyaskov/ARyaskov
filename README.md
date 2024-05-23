@@ -45,6 +45,20 @@ I like
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
+### My NPM-packages
+
+[@riaskov/vk-signin-widget](https://www.npmjs.com/package/@riaskov/vk-signin-widget) - VK ID Sign-In Widget for React
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fvk-signin-widget)
+
+---
+
+[@riaskov/mmap-io](https://www.npmjs.com/package/@riaskov/mmap-io) - Memory-mapped file I/O for Node.js
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fmmap-io)
+
+
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
