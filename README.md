@@ -57,7 +57,11 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fmmap-io)
 
+---
 
+[@riaskov/metro-ru](https://www.npmjs.com/package/@riaskov/metro-ru) - Russian Cities metro (subway) stations data with methods for calculating a distance between given coordinate and station (using Haversine formula).
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fmetro-ru)
 
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
