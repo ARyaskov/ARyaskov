@@ -63,6 +63,12 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fmetro-ru)
 
+---
+
+[@riaskov/xpub2address](https://www.npmjs.com/package/@riaskov/xpub2address) - Convert xpub to BTC address using derivation path. BIP49 (P2SH (Pay 2 Script Hash), 3-addresses) and BIP84 (bech32) are supported.
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fxpub2address)
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
