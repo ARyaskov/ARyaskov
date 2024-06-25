@@ -69,6 +69,12 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fxpub2address)
 
+---
+
+[@riaskov/iohtee-abi-wrapper](https://www.npmjs.com/package/@riaskov/iohtee-abi-wrapper) - IohTee ABI Wrapper is a TypeScript wrapper for EVM-compatible ABI of Solidity smartcontract. It takes raw json artifact file and render ready-to-use TS-wrapper. Use viem v2 internally.
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fiohtee-abi-wrapper)
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
