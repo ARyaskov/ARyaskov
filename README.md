@@ -75,6 +75,12 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fiohtee-abi-wrapper)
 
+---
+
+[@riaskov/iohtee-contracts](https://www.npmjs.com/package/@riaskov/iohtee-contracts) - IohTee contracts is a TypeScript interface for Ethereum contracts managed by Hardhat used by IohTee.
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fiohtee-contracts)
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
