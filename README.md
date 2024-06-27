@@ -81,6 +81,12 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fiohtee-contracts)
 
+---
+
+[@riaskov/iohtee](https://www.npmjs.com/package/@riaskov/iohtee) - IohTee is a Node.js library for micropayments in Ether over HTTP. It allows you to send and receive a minuscule amount of money instantly.
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fiohtee)
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
