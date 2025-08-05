@@ -87,6 +87,12 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fiohtee)
 
+---
+
+[@riaskov/nestjs-graph-visualizer](https://www.npmjs.com/package/@riaskov/nestjs-graph-visualizer) - Generate a visualization of your NestJS app's dependency graph! 💥
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnestjs-graph-visualizer)
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
