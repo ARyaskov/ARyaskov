@@ -93,6 +93,12 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnestjs-graph-visualizer)
 
+---
+
+[@riaskov/nestjs-trace](https://www.npmjs.com/package/@riaskov/nestjs-trace) - Lightweight NestJS tracing (debug print) plugin for controllers and services, supporting Express & Fastify, CJS & ESM.
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnestjs-trace)
+
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
