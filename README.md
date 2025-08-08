@@ -99,9 +99,13 @@ I like
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnestjs-trace)
 
+
 ### My Rust Crates
 
-[![Crates.io](https://img.shields.io/crates/v/get_dir_hash.svg)](https://crates.io/crates/get_dir_hash) - Deterministic **directory hashing** with glob ignores and optional metadata — powered by **BLAKE3**. Tiny, fast, and predictable. Great for cache keys, change detection, CI, and reproducible builds.
+[get_dir_hash](https://crates.io/crates/get_dir_hash) - Deterministic **directory hashing** with glob ignores and optional metadata — powered by **BLAKE3**. Tiny, fast, and predictable. Great for cache keys, change detection, CI, and reproducible builds.
+
+[![Crates.io](https://img.shields.io/crates/v/get_dir_hash.svg)](https://crates.io/crates/get_dir_hash)
+
 
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
