@@ -104,13 +104,13 @@ I like
 
 [get_dir_hash](https://crates.io/crates/get_dir_hash) - Deterministic **directory hashing** with glob ignores and optional metadata — powered by **BLAKE3**. Tiny, fast, and predictable. Great for cache keys, change detection, CI, and reproducible builds.
 
-[![Crates.io](https://img.shields.io/crates/v/get_dir_hash.svg)](https://crates.io/crates/get_dir_hash)
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/get_dir_hash)
 
 ---
 
 [kira_kv_engine](https://crates.io/crates/kira_kv_engine) - KV-storage engine based on Minimal perfect hash functions with hybrid indexing (+PGM Index) for Rust. Zero collisions. Pure O(1) performance.
 
-[![Crates.io](https://img.shields.io/crates/v/kira_kv_engine.svg)](https://crates.io/crates/kira_kv_engine)
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_kv_engine)
 
 
 ![](./img/contributions.jpg)
