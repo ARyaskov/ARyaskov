@@ -106,6 +106,12 @@ I like
 
 [![Crates.io](https://img.shields.io/crates/v/get_dir_hash.svg)](https://crates.io/crates/get_dir_hash)
 
+---
+
+[kira_kv_engine](https://crates.io/crates/kira_kv_engine) - KV-storage engine based on Minimal perfect hash functions with hybrid indexing (+PGM Index) for Rust. Zero collisions. Pure O(1) performance.
+
+[![Crates.io](https://img.shields.io/crates/v/kira_kv_engine.svg)](https://crates.io/crates/kira_kv_engine)
+
 
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
