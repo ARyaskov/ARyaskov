@@ -112,6 +112,12 @@ I like
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_kv_engine)
 
+---
+
+[pgm_index](https://crates.io/crates/pgm_index) - PGM-Index is a space-efficient data structure for fast lookup in sorted sequences. It approximates the distribution of keys with piecewise linear models, allowing searches in O(log ε) with a guaranteed error bound.
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/pgm_index)
+
 
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
