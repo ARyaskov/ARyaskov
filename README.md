@@ -118,6 +118,12 @@ I like
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/pgm_index)
 
+---
+
+[minimal_perfect_hash](https://crates.io/crates/minimal_perfect_hash) - A blazing-fast BDZ minimal perfect hash function implementation in Rust. Designed for production-scale workloads with millions of keys, minimal memory footprint, and predictable O(1) lookups.
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/minimal_perfect_hash)
+
 
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
