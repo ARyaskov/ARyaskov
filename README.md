@@ -124,6 +124,12 @@ I like
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/minimal_perfect_hash)
 
+### My Deno JSR packages
+
+[deno-mmap](https://jsr.io/@riaskov/mmap) - High-performance memory-mapped file I/O for Deno/Typescript via FFI (Rust backend). Zero-overhead mapping, bulk read/write in a single native call, cross-platform binaries auto-downloaded from GitHub Releases with SHA-256 verification. Works on Windows x86_64, Linux x86_64, macOS aarch64 (Apple Silicon). Requires Deno 2.x with FFI permissions.
+
+![deno-mmap](https://img.shields.io/github/v/tag/ARyaskov/deno-mmap?label=deno&logo=deno)
+
 
 ![](./img/contributions.jpg)
 ![](./profile-3d-contrib/profile-gitblock.svg)
