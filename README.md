@@ -102,6 +102,12 @@ I like
 
 ### My Rust Crates
 
+[kira-cdh](https://crates.io/crates/kira-cdh) - Single-binary, CLI-compatible replacement for the core CD-HIT utilities (protein & nucleotide clustering) (bioinformatics).
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira-cdh)
+
+---
+
 [get_dir_hash](https://crates.io/crates/get_dir_hash) - Deterministic **directory hashing** with glob ignores and optional metadata — powered by **BLAKE3**. Tiny, fast, and predictable. Great for cache keys, change detection, CI, and reproducible builds.
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/get_dir_hash)
@@ -123,6 +129,37 @@ I like
 [minimal_perfect_hash](https://crates.io/crates/minimal_perfect_hash) - A blazing-fast BDZ minimal perfect hash function implementation in Rust. Designed for production-scale workloads with millions of keys, minimal memory footprint, and predictable O(1) lookups.
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/minimal_perfect_hash)
+
+---
+
+[kira_cdh_compat_fastq_reader](https://crates.io/crates/kira_cdh_compat_fastq_reader) - Streaming FASTQ reader with CD-HIT–compatible input handling (plain and .gz), a safe, idiomatic Rust API, and optional async support (bioinformatics).
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_cdh_compat_fastq_reader)
+
+---
+
+[kira_cdh_compat_kmer_indexer](https://crates.io/crates/kira_cdh_compat_kmer_indexer) - CD-HIT-compatible k-mer indexing (“CD-HIT-NG”) for FASTQ in modern Rust (edition 2024) (bioinformatics).
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_cdh_compat_kmer_indexer)
+
+---
+
+[kira_cdh_compat_lsh](https://crates.io/crates/kira_cdh_compat_lsh) - Candidate search (LSH - Locality-Sensitive Hashing) primitives for CD-HIT–style clustering pipelines in modern Rust (edition 2024) (bioinformatics).
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_cdh_compat_lsh)
+
+---
+
+[kira_cdh_compat_cluster](https://crates.io/crates/kira_cdh_compat_cluster) - Greedy clustering for CD-HIT–like pipelines in modern Rust (edition 2024) (bioinformatics).
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_cdh_compat_cluster)
+
+---
+
+[kira_cdh_compat_clstr](https://crates.io/crates/kira_cdh_compat_clstr) - CD-HIT–compatible .clstr utilities (writer, reader, and a semantic diff CLI) in modern Rust (edition 2024) (bioinformatics).
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira_cdh_compat_clstr)
+
 
 ### My Deno JSR packages
 
