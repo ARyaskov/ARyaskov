@@ -47,6 +47,12 @@ I like
 
 ### My NPM-packages
 
+[@riaskov/nevo-messaging](https://www.npmjs.com/package/@riaskov/nevo-messaging) - A powerful microservices messaging framework for NestJS 11+ with Kafka 4+ transport, designed for building scalable distributed systems with type-safe inter-service communication.
+
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnevo-messaging)
+
+---
+
 [@riaskov/vk-signin-widget](https://www.npmjs.com/package/@riaskov/vk-signin-widget) - VK ID Sign-In Widget for React
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fvk-signin-widget)
