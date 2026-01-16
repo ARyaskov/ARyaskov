@@ -95,15 +95,15 @@ I like
 
 ---
 
-[@riaskov/nestjs-graph-visualizer](https://www.npmjs.com/package/@riaskov/nestjs-graph-visualizer) - Generate a visualization of your NestJS app's dependency graph! 💥
+[@riaskov/nst-graph-visualizer](https://www.npmjs.com/package/@riaskov/nst-graph-visualizer) - Generate a visualization of your NestJS app's dependency graph! 💥
 
-![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnestjs-graph-visualizer)
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnst-graph-visualizer)
 
 ---
 
-[@riaskov/nestjs-trace](https://www.npmjs.com/package/@riaskov/nestjs-trace) - Lightweight NestJS tracing (debug print) plugin for controllers and services, supporting Express & Fastify, CJS & ESM.
+[@riaskov/nst-trace](https://www.npmjs.com/package/@riaskov/nst-trace) - Lightweight NestJS tracing (debug print) plugin for controllers and services, supporting Express & Fastify, CJS & ESM.
 
-![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnestjs-trace)
+![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fnst-trace)
 
 
 ### My Rust Crates
