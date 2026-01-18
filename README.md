@@ -108,6 +108,12 @@ I like
 
 ### My Rust Crates
 
+[kira-mmcif](https://crates.io/crates/kira-mmcif) - Low-level, streaming mmCIF parser focused on protein coordinates. The crate reads _atom_site data and exposes a stable, Gemmi-inspired API with a deterministic, protein-oriented data contract.
+
+![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira-mmcif)
+
+---
+
 [kira-cdh](https://crates.io/crates/kira-cdh) - Single-binary, CLI-compatible replacement for the core CD-HIT utilities (protein & nucleotide clustering) (bioinformatics).
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira-cdh)
