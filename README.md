@@ -53,12 +53,6 @@ I like
 
 ---
 
-[@riaskov/vk-signin-widget](https://www.npmjs.com/package/@riaskov/vk-signin-widget) - VK ID Sign-In Widget for React
-
-![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fvk-signin-widget)
-
----
-
 [@riaskov/mmap-io](https://www.npmjs.com/package/@riaskov/mmap-io) - Memory-mapped file I/O for Node.js
 
 ![NPM Downloads](https://img.shields.io/npm/dw/%40riaskov%2Fmmap-io)
