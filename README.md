@@ -174,9 +174,6 @@ I like
 ![deno-mmap](https://img.shields.io/github/v/tag/ARyaskov/deno-mmap?label=deno&logo=deno)
 
 
-![](./img/contributions.jpg)
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 <!--
 **ARyaskov/ARyaskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
