@@ -108,12 +108,6 @@ I like
 
 ---
 
-[kira-cdh](https://crates.io/crates/kira-cdh) - Single-binary, CLI-compatible replacement for the core CD-HIT utilities (protein & nucleotide clustering) (bioinformatics).
-
-![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/kira-cdh)
-
----
-
 [get_dir_hash](https://crates.io/crates/get_dir_hash) - Deterministic **directory hashing** with glob ignores and optional metadata — powered by **BLAKE3**. Tiny, fast, and predictable. Great for cache keys, change detection, CI, and reproducible builds.
 
 ![Crates.io Downloads (recent)](https://img.shields.io/crates/dr/get_dir_hash)
